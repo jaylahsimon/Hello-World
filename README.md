@@ -10,6 +10,7 @@
 
 # Project Title
 **Depreciation Calculator** 📊
+This is going to be my sample project!
 
 # Description
 A small Python program that calculates a **straight-line depreciation schedule** for business assets. I built it for *BAIS:3050* to practice using GitHub and to show how I can combine accounting knowledge with technology.
